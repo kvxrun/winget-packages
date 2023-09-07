@@ -16,9 +16,6 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
-				},
-				{
 					"PackageIdentifier" : "AnyDeskSoftwareGmbH.AnyDesk"
 				},
 				{
@@ -29,12 +26,6 @@
 				},
 				{
 					"PackageIdentifier" : "CPUID.CPU-Z"
-				},
-				{
-					"PackageIdentifier" : "Canonical.Ubuntu.2204"
-				},
-				{
-					"PackageIdentifier" : "Codeblocks.Codeblocks"
 				},
 				{
 					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
@@ -52,16 +43,7 @@
 					"PackageIdentifier" : "Tonec.InternetDownloadManager"
 				},
 				{
-					"PackageIdentifier" : "Logitech.UnifyingSoftware"
-				},
-				{
 					"PackageIdentifier" : "MoritzBunkus.MKVToolNix"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DevHome"
@@ -79,9 +61,6 @@
 					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
-				},
-				{
 					"PackageIdentifier" : "Piriform.Recuva"
 				},
 				{
@@ -89,9 +68,6 @@
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
@@ -187,13 +163,7 @@
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
 				},
 				{
-					"PackageIdentifier" : "WinFsp.WinFsp"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22621"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
@@ -204,9 +174,6 @@
 				{
 					"PackageIdentifier" : "Jabra.Direct"
 				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
-				}
 			],
 			"SourceDetails" : 
 			{
